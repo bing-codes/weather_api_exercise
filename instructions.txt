@@ -13,8 +13,11 @@ This includes:
     *adding visualizations using matplotlib 
 
 I also recommend starting by visiualing outlining your program, to get a good sense
-of the logical flow.
+of the logical flow
 
 If you finish revising our program with the above requirements, take what you've
 built and adapt it to create a new program: one that alerts a user to weather 
 alerts in their area. 
+
+Hello Everyone!!!
+
