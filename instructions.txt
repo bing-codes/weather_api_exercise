@@ -9,7 +9,11 @@ This includes:
     *incorporating other endpoints or APIs to make the process of finding a 
         forecast more reliable
     *packaging the program in functions to create a logical control flow
-    *providing the best user experience you can achieve 
+    *providing the best user experience you can achieve
+    *adding visualizations using matplotlib 
+
+I also recommend starting by visiualing outlining your program, to get a good sense
+of the logical flow.
 
 If you finish revising our program with the above requirements, take what you've
 built and adapt it to create a new program: one that alerts a user to weather 
