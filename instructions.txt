@@ -1,0 +1,16 @@
+Goal for 2/25: Build as complete and complex a program as possible using an API
+
+We have already explored the weather.gov API and know how to look up a location
+by its latitude and longitude and return the forecast. With our new knowledge,
+we are going to return to that program and refactor (or revise) it. 
+
+This includes:
+    *error handling for potential issues
+    *incorporating other endpoints or APIs to make the process of finding a 
+        forecast more reliable
+    *packaging the program in functions to create a logical control flow
+    *providing the best user experience you can achieve 
+
+If you finish revising our program with the above requirements, take what you've
+built and adapt it to create a new program: one that alerts a user to weather 
+alerts in their area. 
